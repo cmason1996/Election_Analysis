@@ -5,11 +5,11 @@
 This analysis was commisioned by the Colorado Board of Elections to analysis and determine the results of a recent Colordo Congressional election. The 
 objectives of this analysis are as follows:
 
-1. Calculate the total number of votes cast
-2. Gather a complete list of candidates who received votes
-3. Calculate the total number of votes that each candidate received
-4. Calculate the percentage of votes that each candidate won
-5. Determine the winner of the election based on the results of the popular vote
+* Calculate the total number of votes cast
+* Gather a complete list of candidates who received votes
+* Calculate the total number of votes that each candidate received
+* Calculate the percentage of votes that each candidate won
+* Determine the winner of the election based on the results of the popular vote
 
 ## Resources
 
@@ -17,7 +17,7 @@ Data sourced from election_results.csv Software used to write script and run cod
 
 ## Summary
 
-## Analysis Summary
+### Analysis Summary
 
 The total number of votes cast in the election was 369,711. The county with the highest voter turnout was Denver county with 82.8% of the total vote 
 (306,055). Jefferson county had the second highest voter turnout at 10.5% of the total vote (38,855). And Arapahoe county had the lowest voter turnout 
@@ -25,7 +25,7 @@ at 6.7% of the total votes (24,801). The winner of the popular vote was Diana De
 Casper Stokham came in second place with 85,213 votes or 23.0% of the total votes cast. And Raymon Anthony Doane had the least amount of votes at 11,606 
 votes or 3.1% of the total votes counted.
 
-## Challenges and Further Uses
+### Challenges and Further Uses
 
 Some of the challenges faced were issues with initial creation of the script but once those had been debugged, the script was able to be built upon to 
 add a deeper level of analysis than originally requested at commission. A couple of ways that this script could be used in the future are to run analysis 
